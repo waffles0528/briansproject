@@ -1,0 +1,65 @@
+h1{
+ color: gray;
+  text-align: center;
+  font-family: 'MinecrafterAltRegular';
+   font-weight: normal;
+   font-style: normal;
+  text-shadow: 
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 5px 0 #000,
+    1px 5px 0 #000;       
+}
+
+h2{
+  color: gray;
+  text-align: center;
+  font-family: 'MinecrafterAltRegular';
+   font-weight: normal;
+   font-style: normal;
+  text-shadow: 
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 5px 0 #000,
+    1px 5px 0 #000;       
+}
+
+body{
+  background: url(https://wallpaperplay.com/walls/full/4/2/2/234831.jpg);
+  repeat: no-repeat;
+}
+
+#pic{
+  border: 10px solid orange;
+  margin-left: 850px;
+  margin-right: 850px;
+}
+
+#text1{
+  background-color: gray;
+  border: lightgray solid 10px;
+   text-align: center;
+  color: white;
+  font-family: 'MinecraftiaRegular';
+   font-weight: normal;
+   font-style: normal;
+    text-shadow: 
+   -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000; 
+}
+
+#text2{
+  text-align: center;
+  font-family: 'MinecraftiaRegular';
+   font-weight: normal;
+   font-style: normal;
+    text-shadow: 
+   -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000; 
+  color: red;
+}
+

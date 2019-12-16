@@ -1,0 +1,74 @@
+body{
+  background: url(https://wallpapercave.com/wp/wp2586787.jpg);
+  background-repeat: no-repeat;
+  background-size: 2000px 940px;
+}
+
+h1{
+  
+  color: gray;
+  text-align: center;
+  font-family: 'MinecrafterAltRegular';
+   font-weight: normal;
+   font-style: normal;
+  text-shadow: 
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 5px 0 #000,
+    1px 5px 0 #000;   
+}
+
+#pic{
+  border: solid 10px black;
+  text-align: center;
+  margin-left: 825px;
+  margin-right: 825px;
+}
+
+h2{
+  text-shadow: 
+   -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 5px 0 #000,
+    1px 5px 0 #000;  
+  color: gray;
+  text-align: center;
+  font-family: 'MinecrafterAltRegular';
+   font-weight: normal;
+   font-style: normal;
+}
+
+h3{
+  text-align: center;
+  color: white;
+  font-family: 'MinecraftiaRegular';
+   font-weight: normal;
+   font-style: normal;
+    text-shadow: 
+   -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000; 
+}
+
+#pic2{
+  border: solid 10px green;
+  text-align: center;
+  margin-left: 790px;
+  margin-right: 790px;
+}
+
+#pic3{
+  border: solid 10px red;
+  text-align: center;
+  margin-left: 730px;
+  margin-right: 730px;
+}
+
+#link{
+  color: green;
+}
+
+#link2{
+  color: red;
+}
